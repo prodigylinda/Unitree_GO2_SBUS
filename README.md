@@ -17,3 +17,4 @@ Requirements:
 
 [![Video](https://img.youtube.com/vi/AR2y-QA6O1I/0.jpg)](https://www.youtube.com/watch?v=AR2y-QA6O1I)
 
+[![Video](https://www.bilibili.com/video/BV1W9hezAE9X/?spm_id_from=333.1387.homepage.video_card.click)
