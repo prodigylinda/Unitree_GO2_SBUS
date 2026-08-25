@@ -15,6 +15,6 @@ Requirements:
 - XT30 Male Power Connector
 - 3P 1.25mm Picoblade
 
+Video shows:
 [![Video](https://img.youtube.com/vi/AR2y-QA6O1I/0.jpg)](https://www.youtube.com/watch?v=AR2y-QA6O1I)
-
 [Video show](https://www.bilibili.com/video/BV1W9hezAE9X/?spm_id_from=333.1387.homepage.video_card.click)
